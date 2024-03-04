@@ -12,10 +12,10 @@ https://tiktok-download5.p.rapidapi.com/getVideo       tiktok-download5.p.rapida
 
 
 # Set up the API information
-url = "https://tiktok-download-video1.p.rapidapi.com/getVideo"     
+url = "https://tiktok-video-feature-summary.p.rapidapi.com"     
 headers = {
     "X-RapidAPI-Key": "0feb57de3cmsh371a78fd6f179e3p1c9fd9jsn088702af67e5",   
-    "X-RapidAPI-Host": "tiktok-download-video1.p.rapidapi.com",      
+    "X-RapidAPI-Host": "tiktok-video-feature-summary.p.rapidapi.com",      
 }
     
 # Get the current working directory
